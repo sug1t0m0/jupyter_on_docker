@@ -1,0 +1,12 @@
+*~
+.DS_Store
+.idea
+.nvmrc
+
+# js
+bower_component
+node_modules
+npm-debug.log
+
+temp.*
+tmp.*
